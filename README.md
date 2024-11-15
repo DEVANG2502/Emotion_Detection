@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EmotionDetection_Realtime
 This is a Python 3 based project to display facial expressions (happy, sad, anger, fear, disgust, surprise, neutral) by performing fast & accurate face detection with OpenCV using a pre-trained deep learning face detector model shipped with the library.
 
@@ -22,3 +23,6 @@ Download the [data.zip](https://drive.google.com/file/d/1yCxHw7aOAPYTVz9VKm2Yax1
 1. Unzip the 'data.zip' file in the same location
 2. Open terminal and enter the file path to the desired directory and paste the command given below
 3. ``` python kerasmodel.py --mode display```
+=======
+# Emotion_Detection
+>>>>>>> da2580dd5416d512877d072dd09499e72236b7b0
