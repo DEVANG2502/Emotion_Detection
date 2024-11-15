@@ -22,7 +22,8 @@ Download the [data.zip](https://drive.google.com/file/d/1yCxHw7aOAPYTVz9VKm2Yax1
 
 1. Unzip the 'data.zip' file in the same location
 2. Open terminal and enter the file path to the desired directory and paste the command given below
-3. ``` python kerasmodel.py --mode display```
+3.  ```python kerasmodel.py --mode train```
+4.  ```python Kerasmodel.py --mode test ```
+5.  ```python kerasmodel.py --mode display```
 =======
 # Emotion_Detection
->>>>>>> da2580dd5416d512877d072dd09499e72236b7b0
